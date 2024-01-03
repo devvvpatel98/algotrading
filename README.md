@@ -15,7 +15,9 @@ This project integrates advanced techniques in U.S. equities trading, combining 
 - **Stress Test - March 2020**: 1.64% profit, Sharpe Ratio of .937, max drawdown 4.5%.
 - **Blind OOS (Jan 1, 2023, to Apr 1, 2023)**: 11.47% profit, Sharpe Ratio of 1.529, max drawdown 8.2%.
 - **Live Paper Trading Result**: 0.05% profit.
-For detailed results please check the report
+
+For detailed results please check the Algo_585_Group_Project pdf report.
+
 ## Installation and Usage
 Python and QuantConnect Platform - see the [QuantConnect](https://www.quantconnect.com/) for details.
 
