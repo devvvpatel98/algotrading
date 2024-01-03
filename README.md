@@ -10,11 +10,12 @@ This project integrates advanced techniques in U.S. equities trading, combining 
 - **Risk Management**: Includes Triple Barrier method and Equal Contribution to Risk approach.
 
 ## Backtesting Results
-- **Out of Sample B (Jan 1, 2016, to Jan 1, 2017)**: 31.99% profit, Sharpe Ratio of 1.476, max drawdown 9%.
+- **In Sample (Jan 1, 2017, to June 1, 2023)**: 17.28% profit, Sharpe Ratio of 1.248, max drawdown 6.4%.
+- **Out of Sample (Jan 1, 2022, to Jan 1, 2023)**: 31.99% profit, Sharpe Ratio of 1.476, max drawdown 9%.
 - **Stress Test - March 2020**: 1.64% profit, Sharpe Ratio of .937, max drawdown 4.5%.
 - **Blind OOS (Jan 1, 2023, to Apr 1, 2023)**: 11.47% profit, Sharpe Ratio of 1.529, max drawdown 8.2%.
 - **Live Paper Trading Result**: 0.05% profit.
-
+For detailed results please check the report
 ## Installation and Usage
 Python and QuantConnect Platform - see the [QuantConnect](https://www.quantconnect.com/) for details.
 
